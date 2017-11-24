@@ -127,3 +127,14 @@
 }
 .arrow {
 }
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+._单选按钮 {
+  text-align:left;
+}
